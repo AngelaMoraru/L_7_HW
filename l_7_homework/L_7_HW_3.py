@@ -8,11 +8,3 @@ def perfect_nr(b):
     else:
         return False
 
-#def perfect_list(list):
-#    nr_list = []
-    #    b = 2
-        #    while b > 1 and len(nr_list) < b:
-        #        if is_perfect(b):
-        #            nr_list.append(b)
-    #        b += 2
-#    return nr_list

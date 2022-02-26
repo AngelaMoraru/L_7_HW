@@ -6,7 +6,7 @@ def palindrom(fraza):
         return True
     return False
 
-#def palindrom(fraza):
+
 #    fraza = input('Introduce o propozitie:')
 #    string_a = fraza.lower().replace(' ', '')
 #    stringlength=len(string_a) # calculate length of the list
